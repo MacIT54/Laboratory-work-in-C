@@ -79,5 +79,5 @@ int main() {
     }
     int sum_without_diag = sum_secondary_diag - sum_side_diag;
     printf("Sum of elements outside the diagonals: %d\n", sum_without_diag);
-    return 0;
+    return 0; 
 }
